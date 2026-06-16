@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eldhose Abraham Emerson</h1>
-<h3 align="center">Third Year Computer Science Engineering Student | Passionate Learner | Exploring Software Development</h3>
+<h3 align="center">💻 Third Year Computer Science Engineering Student | Kerala, India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Learning+and+Building+Projects;Always+Curious+🚀" alt="Typing SVG" />
+  <a href="https://github.com/eldhoseabrahamemerson">
+    <img src="https://komarev.com/ghpvc/?username=eldhoseabrahamemerson&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
@@ -10,37 +12,30 @@
 ## 👨‍💻 About Me
 
 - 🎓 Third Year B.Tech Computer Science Engineering Student
-- 🌱 Currently learning **JavaScript, React, Git & Linux**
-- 💡 Interested in **Web Development, Open Source and Software Engineering**
-- 🚀 Building projects to improve my development skills
-- 📚 Always learning something new
+- 🌱 Currently learning **JavaScript, React, Git, Linux & DSA**
+- 💡 Exploring different domains in Software Development
+- 🚀 Building projects to improve my skills
+- 📖 I believe in learning by building real-world applications
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+<p align="left">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,linux,vscode"/>
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=eldhoseabrahamemerson&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=eldhoseabrahamemerson&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldhoseabrahamemerson&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eldhoseabrahamemerson&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -50,37 +45,53 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=eldhoseabrahamemerson&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=eldhoseabrahamemerson&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🚀 Current Goals
+## 🎯 2026 Goals
 
-- ✅ Master JavaScript
+- ✅ Become confident in JavaScript
 - ✅ Learn React
 - ✅ Build Full Stack Projects
+- ✅ Solve DSA problems consistently
 - ✅ Contribute to Open Source
-- ✅ Improve DSA Skills
 
 ---
 
-## 📂 Featured Projects
+## 📌 Featured Projects
 
-- 🌐 Biography Website
-- 🎨 CSS Projects
-- 💻 Linux Practice
-- 📚 College Projects
-- 🚀 More exciting projects coming soon...
+🔹 Biography Website
+
+🔹 CSS Profile Card
+
+🔹 Linux Practice
+
+🔹 College Projects
+
+🔹 More projects coming soon...
 
 ---
 
-## 🌐 Connect with Me
+## 📈 Contribution Graph
+
+[![Eldhose's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eldhoseabrahamemerson&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/eldhose-abraham-emerson-331894327/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/eldhose-abraham-emerson-331894327/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:eldhoseabraham2006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
 
 </p>
 
@@ -88,6 +99,8 @@
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ "Every expert was once a beginner."
+
+Thanks for visiting my profile! 🚀
 
 </p>
