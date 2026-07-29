@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile_banner.jpg" alt="Eldhose's Tech Banner" width="100%" />
+  <img src="./profile_banner.jpg" alt="Eldhose's Tech Banner" width="70%" />
 </p>
 
 <h1 align="center">Hi there, I'm Eldhose Abraham Emerson 👋</h1>
